@@ -13,4 +13,6 @@ attr_accessor :client, :trainer, :location
     def self.all
       @@all
     end
+
+    
 end
